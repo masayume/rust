@@ -11,6 +11,22 @@
 rustc 04-print.rs -o 04-print.exe
 ```
 
+## create cargo package
+```
+mkdir rust-package
+cd rust-package
+cargo init
+
+```
+
+## compile cargo package
+```
+cd package-dir
+cargo build
+cargo build --release
+cargo run
+```
+
 ## rust examples
 
 
