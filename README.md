@@ -4,7 +4,9 @@
 * [book](https://doc.rust-lang.org/book/)
 * [rust by example](https://doc.rust-lang.org/rust-by-example/hello.html)
 * [rust by example next exercise](https://doc.rust-lang.org/rust-by-example/hello/print/print_debug.html)
-* [Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
+* [Rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+* [The Cargo Book](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html)
+* [VIDEO: Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
 
 ## compile
 ```
