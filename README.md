@@ -27,6 +27,12 @@ cargo build --release
 cargo run
 ```
 
+## call with arguments
+```
+cargo run param1 param2
+```
+
+
 ## rust examples
 
 
