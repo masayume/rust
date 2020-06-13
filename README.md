@@ -7,6 +7,8 @@
 * [Rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 * [The Cargo Book](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html)
 * [VIDEO: Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
+* [Texture Synthesis with Rust by Anastasia Opara](https://github.com/EmbarkStudios/texture-synthesis)
+
 
 ## compile
 ```
