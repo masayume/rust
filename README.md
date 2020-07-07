@@ -8,6 +8,8 @@
 * [The Cargo Book](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html)
 * [VIDEO: Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
 * [Texture Synthesis with Rust by Anastasia Opara](https://github.com/EmbarkStudios/texture-synthesis)
+* [Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
+* [From C# to Rust](https://dev.to/sebnilsson/from-c-to-rust-introduction-4650)
 
 
 ## compile
