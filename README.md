@@ -11,6 +11,7 @@
 * [Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
 * [From C# to Rust](https://dev.to/sebnilsson/from-c-to-rust-introduction-4650)
 * [Anastasia Opara - Texture Syntehsis](https://github.com/anopara/texture-synthesis)
+* [Valerie: Rethinking Web Apps in Rust](https://dev.to/emmanuelantony2000/valerie-rethinking-web-apps-in-rust-4cl3)
 
 
 ## compile
