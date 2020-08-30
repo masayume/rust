@@ -6,6 +6,7 @@
 * [rust by example next exercise](https://doc.rust-lang.org/rust-by-example/hello/print/print_debug.html)
 * [Rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 * [The Cargo Book](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html)
+* [RUST for VIDEOGAMES](https://arewegameyet.rs/)
 * [VIDEO: Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
 * [Texture Synthesis with Rust by Anastasia Opara](https://github.com/EmbarkStudios/texture-synthesis)
 * [Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
