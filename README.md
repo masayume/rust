@@ -1,5 +1,8 @@
 # rust
 
+[latest update of this file](https://github.com/masayume/DigitalGarden/tree/main/engineering-code/rust) in the [Digital Garden Repository](https://github.com/masayume/DigitalGarden/)
+
+
 ## docs & video
 * [book](https://doc.rust-lang.org/book/)
 * [rust by example](https://doc.rust-lang.org/rust-by-example/hello.html)
